@@ -26,7 +26,7 @@ nomp_init(async () => {
 });
 ```
 
-## Supported Directives
+## Example Directive Usage
 
 ### Parallel
 
